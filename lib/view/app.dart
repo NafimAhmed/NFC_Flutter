@@ -106,7 +106,7 @@ ThemeData _themeData(Brightness brightness) {
       900: Color(0xFF255CFD),
     }),
     appBarTheme: AppBarTheme(
-      brightness: Brightness.dark,
+      //brightness: Brightness.dark,
     ),
     inputDecorationTheme: InputDecorationTheme(
       isDense: true,
